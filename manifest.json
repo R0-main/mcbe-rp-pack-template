@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "MCBE RP Template",
+		"description": "",
+		"uuid": "65217f09-3e9e-4b69-b503-0030e83bd807",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 21, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "2518c3a5-de75-4d70-bc9a-e4d586bbb1cd",
+			"version": [0, 0, 1]
+		}
+	]
+}
